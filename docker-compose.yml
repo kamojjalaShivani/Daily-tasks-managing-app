@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  db:
+    container_name: tm_app
+    image: postgres:13
+    environment:
+      POSTGRES_USER: postgres_user
+      POSTGRES_PASSWORD: 12341234
+      POSTGRES_DB: task_manager
+    ports:
+      - '5432:5432'
