@@ -9,7 +9,6 @@ The API follows RESTful principles and provides authentication and role-based ac
 - **Backend:** Node.js, Express.js
 - **Database:** PostgreSQL (Using Sequelize ORM)
 - **Authentication:** JWT (JSON Web Tokens)
-- **Validation:** Joi
 - **Environment Management:** dotenv
 
 ## 🎯 Features
@@ -25,4 +24,4 @@ Follow these steps to run the API locally:
 1️⃣ **Clone the Repository**
 ```sh
 git clone https://github.com/kamojjalaShivani/Daily-tasks-managing-app.git
-cd task-management-api
+cd Daily-tasks-managing-app-main
