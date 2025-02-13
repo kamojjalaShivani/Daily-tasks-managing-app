@@ -24,5 +24,5 @@ Follow these steps to run the API locally:
 
 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/your-username/task-management-api.git
+git clone https://github.com/kamojjalaShivani/Daily-tasks-managing-app.git
 cd task-management-api
